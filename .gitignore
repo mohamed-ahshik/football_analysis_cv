@@ -1,0 +1,5 @@
+yolov8x.pt
+output_videos/*
+models/*
+runs/*
+input_videos/*
