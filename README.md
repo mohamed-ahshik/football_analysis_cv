@@ -15,7 +15,7 @@ However, since YOLOv8 is pre-trained on the COCO dataset, it identifies people a
 
 This project was a fantastic way to learn and apply computer vision techniques, and I'm excited about how this can be used in real-world sports analysis! 📊⚡
 
-🔗 GitHub Repository: https://github.com/mohamed-ahshik/football_analysis_cv
+🔗 GitHub Repository: https://github.com/mohamed-ahshik/football_analysis_cv  \
 🎥 YouTube Tutorial: https://www.youtube.com/watch?v=neBZ6huolkg&t=8827s
 
 
